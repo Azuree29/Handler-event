@@ -1,0 +1,27 @@
+body {
+    background-color: greenyellow;
+}
+
+
+div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+}
+
+input {
+    padding: 10px;
+    border: solid;
+    border-radius: 5px;
+    width: 200px;
+    font-size: 30px;
+    color: red;
+}
+
+span {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  font-size: 25px;
+  color: blue;
+}
